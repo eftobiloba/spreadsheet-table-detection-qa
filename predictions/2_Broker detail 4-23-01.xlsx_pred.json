@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "2_Broker detail 4-23-01.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 32,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 23,
+                "left_col": 8,
+                "right_col": 12
+            }
+        }
+    ]
+}

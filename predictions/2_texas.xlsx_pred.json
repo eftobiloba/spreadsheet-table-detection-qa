@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_texas.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 34,
+                "left_col": 0,
+                "right_col": 21
+            }
+        }
+    ]
+}

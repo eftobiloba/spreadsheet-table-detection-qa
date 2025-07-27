@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "2_200004strg.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 4,
+                "left_col": 0,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 39,
+                "left_col": 0,
+                "right_col": 10
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 8,
+                "bottom_row": 39,
+                "left_col": 12,
+                "right_col": 12
+            }
+        }
+    ]
+}

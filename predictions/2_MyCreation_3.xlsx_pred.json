@@ -1,0 +1,68 @@
+{
+    "spreadsheet": "2_MyCreation_3.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 3,
+                "left_col": 0,
+                "right_col": 11
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 23,
+                "left_col": 0,
+                "right_col": 13
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 23,
+                "left_col": 17,
+                "right_col": 22
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 27,
+                "bottom_row": 32,
+                "left_col": 0,
+                "right_col": 13
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 27,
+                "bottom_row": 32,
+                "left_col": 17,
+                "right_col": 22
+            }
+        },
+        {
+            "table_id": "table_6",
+            "bounding_box": {
+                "top_row": 36,
+                "bottom_row": 45,
+                "left_col": 0,
+                "right_col": 13
+            }
+        },
+        {
+            "table_id": "table_7",
+            "bounding_box": {
+                "top_row": 36,
+                "bottom_row": 45,
+                "left_col": 17,
+                "right_col": 22
+            }
+        }
+    ]
+}

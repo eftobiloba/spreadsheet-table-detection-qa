@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_TOP 50 CP - GAS EM 11-13-01.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 3,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 58,
+                "left_col": 0,
+                "right_col": 8
+            }
+        }
+    ]
+}

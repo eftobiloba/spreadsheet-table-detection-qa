@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_Financial Power Terminated.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 27,
+                "left_col": 1,
+                "right_col": 3
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_enron.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 6,
+                "bottom_row": 24,
+                "left_col": 0,
+                "right_col": 16
+            }
+        }
+    ]
+}

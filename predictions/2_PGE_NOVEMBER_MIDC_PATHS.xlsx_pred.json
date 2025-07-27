@@ -1,0 +1,50 @@
+{
+    "spreadsheet": "2_PGE_NOVEMBER_MIDC_PATHS.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 4,
+                "left_col": 3,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 3,
+                "bottom_row": 6,
+                "left_col": 9,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 12,
+                "bottom_row": 16,
+                "left_col": 1,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 20,
+                "bottom_row": 24,
+                "left_col": 1,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 28,
+                "bottom_row": 35,
+                "left_col": 1,
+                "right_col": 9
+            }
+        }
+    ]
+}

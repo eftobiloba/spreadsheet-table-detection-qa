@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "2_0518 Cash Sheet.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 13,
+                "bottom_row": 13,
+                "left_col": 1,
+                "right_col": 2
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 21,
+                "bottom_row": 39,
+                "left_col": 0,
+                "right_col": 6
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 45,
+                "bottom_row": 64,
+                "left_col": 0,
+                "right_col": 5
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 71,
+                "bottom_row": 85,
+                "left_col": 0,
+                "right_col": 2
+            }
+        }
+    ]
+}

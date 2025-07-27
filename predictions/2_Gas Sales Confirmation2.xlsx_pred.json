@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "2_Gas Sales Confirmation2.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 27,
+                "left_col": 0,
+                "right_col": 7
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 25,
+                "bottom_row": 29,
+                "left_col": 8,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 35,
+                "bottom_row": 38,
+                "left_col": 0,
+                "right_col": 0
+            }
+        }
+    ]
+}

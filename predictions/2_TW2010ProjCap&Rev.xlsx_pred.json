@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "2_TW2010ProjCap&Rev.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 23,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 27,
+                "bottom_row": 48,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 52,
+                "bottom_row": 52,
+                "left_col": 0,
+                "right_col": 9
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_Cob.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 8,
+                "bottom_row": 41,
+                "left_col": 1,
+                "right_col": 11
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 85,
+                "bottom_row": 88,
+                "left_col": 1,
+                "right_col": 3
+            }
+        }
+    ]
+}

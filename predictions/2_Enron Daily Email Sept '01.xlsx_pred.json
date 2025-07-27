@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_Enron Daily Email Sept '01.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 3,
+                "left_col": 8,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 10,
+                "bottom_row": 43,
+                "left_col": 0,
+                "right_col": 9
+            }
+        }
+    ]
+}

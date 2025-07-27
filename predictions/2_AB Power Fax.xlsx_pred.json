@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_AB Power Fax.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 2,
+                "bottom_row": 22,
+                "left_col": 0,
+                "right_col": 3
+            }
+        }
+    ]
+}

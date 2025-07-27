@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "3_West position0919.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 3,
+                "bottom_row": 14,
+                "left_col": 0,
+                "right_col": 18
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 18,
+                "bottom_row": 28,
+                "left_col": 0,
+                "right_col": 18
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 31,
+                "bottom_row": 40,
+                "left_col": 0,
+                "right_col": 18
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 44,
+                "bottom_row": 48,
+                "left_col": 0,
+                "right_col": 18
+            }
+        }
+    ]
+}

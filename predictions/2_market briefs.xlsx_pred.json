@@ -1,0 +1,50 @@
+{
+    "spreadsheet": "2_market briefs.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 5,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 10,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 12,
+                "bottom_row": 18,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 20,
+                "bottom_row": 27,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 29,
+                "bottom_row": 38,
+                "left_col": 0,
+                "right_col": 3
+            }
+        }
+    ]
+}

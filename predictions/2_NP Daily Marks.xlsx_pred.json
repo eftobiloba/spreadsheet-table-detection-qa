@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "2_NP Daily Marks.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 2,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 6,
+                "bottom_row": 10,
+                "left_col": 0,
+                "right_col": 6
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 11,
+                "bottom_row": 13,
+                "left_col": 5,
+                "right_col": 6
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 17,
+                "bottom_row": 20,
+                "left_col": 0,
+                "right_col": 0
+            }
+        }
+    ]
+}

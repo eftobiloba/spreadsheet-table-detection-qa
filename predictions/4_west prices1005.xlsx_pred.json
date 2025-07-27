@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "4_west prices1005.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 9,
+                "left_col": 0,
+                "right_col": 17
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 13,
+                "bottom_row": 21,
+                "left_col": 0,
+                "right_col": 17
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 25,
+                "bottom_row": 33,
+                "left_col": 0,
+                "right_col": 17
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "spreadsheet": "2_EES Dailya.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 1,
+                "right_col": 2
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 9,
+                "left_col": 1,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 6,
+                "bottom_row": 9,
+                "left_col": 4,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 12,
+                "bottom_row": 18,
+                "left_col": 1,
+                "right_col": 26
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 21,
+                "bottom_row": 26,
+                "left_col": 1,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_6",
+            "bounding_box": {
+                "top_row": 23,
+                "bottom_row": 26,
+                "left_col": 4,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_7",
+            "bounding_box": {
+                "top_row": 29,
+                "bottom_row": 35,
+                "left_col": 1,
+                "right_col": 26
+            }
+        },
+        {
+            "table_id": "table_8",
+            "bounding_box": {
+                "top_row": 38,
+                "bottom_row": 43,
+                "left_col": 1,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_9",
+            "bounding_box": {
+                "top_row": 40,
+                "bottom_row": 43,
+                "left_col": 4,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_10",
+            "bounding_box": {
+                "top_row": 46,
+                "bottom_row": 52,
+                "left_col": 1,
+                "right_col": 26
+            }
+        }
+    ]
+}

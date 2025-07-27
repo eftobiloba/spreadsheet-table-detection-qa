@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_NNG LAMAR NOMNATION.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 4,
+                "left_col": 4,
+                "right_col": 5
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 8,
+                "bottom_row": 34,
+                "left_col": 2,
+                "right_col": 6
+            }
+        }
+    ]
+}

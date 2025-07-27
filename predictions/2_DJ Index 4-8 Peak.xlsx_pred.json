@@ -1,0 +1,59 @@
+{
+    "spreadsheet": "2_DJ Index 4-8 Peak.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 19,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 21,
+                "bottom_row": 26,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 28,
+                "bottom_row": 33,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 35,
+                "bottom_row": 40,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 42,
+                "bottom_row": 47,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_6",
+            "bounding_box": {
+                "top_row": 49,
+                "bottom_row": 54,
+                "left_col": 0,
+                "right_col": 3
+            }
+        }
+    ]
+}

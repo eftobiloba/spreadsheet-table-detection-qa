@@ -1,0 +1,140 @@
+{
+    "spreadsheet": "2_10162001WestPosition.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 3,
+                "left_col": 0,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 1,
+                "left_col": 25,
+                "right_col": 26
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 61,
+                "left_col": 0,
+                "right_col": 22
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 15,
+                "left_col": 31,
+                "right_col": 48
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 19,
+                "bottom_row": 21,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_6",
+            "bounding_box": {
+                "top_row": 25,
+                "bottom_row": 28,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_7",
+            "bounding_box": {
+                "top_row": 32,
+                "bottom_row": 43,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_8",
+            "bounding_box": {
+                "top_row": 47,
+                "bottom_row": 56,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_9",
+            "bounding_box": {
+                "top_row": 60,
+                "bottom_row": 61,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_10",
+            "bounding_box": {
+                "top_row": 108,
+                "bottom_row": 161,
+                "left_col": 0,
+                "right_col": 22
+            }
+        },
+        {
+            "table_id": "table_11",
+            "bounding_box": {
+                "top_row": 108,
+                "bottom_row": 121,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_12",
+            "bounding_box": {
+                "top_row": 125,
+                "bottom_row": 128,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_13",
+            "bounding_box": {
+                "top_row": 132,
+                "bottom_row": 143,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_14",
+            "bounding_box": {
+                "top_row": 147,
+                "bottom_row": 156,
+                "left_col": 31,
+                "right_col": 47
+            }
+        },
+        {
+            "table_id": "table_15",
+            "bounding_box": {
+                "top_row": 160,
+                "bottom_row": 161,
+                "left_col": 31,
+                "right_col": 47
+            }
+        }
+    ]
+}

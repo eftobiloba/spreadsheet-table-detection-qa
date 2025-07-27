@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_Trades 1212.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 63,
+                "left_col": 0,
+                "right_col": 7
+            }
+        }
+    ]
+}

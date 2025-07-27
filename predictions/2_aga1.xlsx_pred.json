@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "2_aga1.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 59,
+                "left_col": 0,
+                "right_col": 51
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 64,
+                "bottom_row": 117,
+                "left_col": 0,
+                "right_col": 21
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 64,
+                "bottom_row": 117,
+                "left_col": 26,
+                "right_col": 47
+            }
+        }
+    ]
+}

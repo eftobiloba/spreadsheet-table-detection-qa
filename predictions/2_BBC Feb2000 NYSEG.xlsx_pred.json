@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_BBC Feb2000 NYSEG.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 2,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 6,
+                "bottom_row": 24,
+                "left_col": 0,
+                "right_col": 4
+            }
+        }
+    ]
+}

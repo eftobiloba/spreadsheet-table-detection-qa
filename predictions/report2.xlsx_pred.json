@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "report2.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 10,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 17,
+                "left_col": 6,
+                "right_col": 12
+            }
+        }
+    ]
+}

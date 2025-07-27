@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_MyCreation_1.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 2,
+                "bottom_row": 4,
+                "left_col": 0,
+                "right_col": 3
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 11,
+                "bottom_row": 15,
+                "left_col": 0,
+                "right_col": 6
+            }
+        }
+    ]
+}

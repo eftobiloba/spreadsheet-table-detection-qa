@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_FERC docket RM01-9_item2.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 0,
+                "right_col": 14
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 16,
+                "left_col": 0,
+                "right_col": 14
+            }
+        }
+    ]
+}

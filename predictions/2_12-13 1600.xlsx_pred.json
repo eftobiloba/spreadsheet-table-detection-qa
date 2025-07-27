@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_12-13 1600.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 0,
+                "left_col": 0,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 2,
+                "bottom_row": 33,
+                "left_col": 0,
+                "right_col": 12
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_SUNFLOWER - NNG - HOURLY - 2002.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 30,
+                "left_col": 0,
+                "right_col": 7
+            }
+        }
+    ]
+}

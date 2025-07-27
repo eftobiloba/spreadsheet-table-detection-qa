@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_PHONE_LIST.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 41,
+                "left_col": 0,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 47,
+                "bottom_row": 86,
+                "left_col": 0,
+                "right_col": 8
+            }
+        }
+    ]
+}

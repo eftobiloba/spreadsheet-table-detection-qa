@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_Fixed3.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 20,
+                "left_col": 0,
+                "right_col": 10
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 23,
+                "bottom_row": 37,
+                "left_col": 0,
+                "right_col": 10
+            }
+        }
+    ]
+}

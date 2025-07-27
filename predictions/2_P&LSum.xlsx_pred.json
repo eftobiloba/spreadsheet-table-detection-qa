@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_P&LSum.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 5,
+                "left_col": 0,
+                "right_col": 11
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 9,
+                "bottom_row": 17,
+                "left_col": 0,
+                "right_col": 12
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_enron breakdown  12-05 BOD.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 3,
+                "bottom_row": 24,
+                "left_col": 0,
+                "right_col": 12
+            }
+        }
+    ]
+}

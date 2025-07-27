@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_trading track rotations.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 42,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 20,
+                "left_col": 9,
+                "right_col": 10
+            }
+        }
+    ]
+}

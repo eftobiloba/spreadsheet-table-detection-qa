@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "2_West Limits Fax.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 1,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 13,
+                "left_col": 1,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 16,
+                "bottom_row": 21,
+                "left_col": 1,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 24,
+                "bottom_row": 28,
+                "left_col": 1,
+                "right_col": 8
+            }
+        }
+    ]
+}

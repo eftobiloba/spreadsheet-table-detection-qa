@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_122200 HPL.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 4,
+                "bottom_row": 15,
+                "left_col": 0,
+                "right_col": 6
+            }
+        }
+    ]
+}

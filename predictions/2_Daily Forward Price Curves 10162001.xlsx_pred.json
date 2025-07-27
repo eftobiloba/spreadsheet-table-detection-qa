@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "2_Daily Forward Price Curves 10162001.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 37,
+                "left_col": 0,
+                "right_col": 2
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 37,
+                "left_col": 5,
+                "right_col": 7
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 37,
+                "left_col": 10,
+                "right_col": 11
+            }
+        }
+    ]
+}

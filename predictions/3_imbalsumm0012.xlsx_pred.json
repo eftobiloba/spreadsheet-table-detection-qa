@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "3_imbalsumm0012.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 6,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 11,
+                "bottom_row": 28,
+                "left_col": 0,
+                "right_col": 6
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 11,
+                "bottom_row": 13,
+                "left_col": 14,
+                "right_col": 15
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 33,
+                "bottom_row": 43,
+                "left_col": 0,
+                "right_col": 6
+            }
+        }
+    ]
+}

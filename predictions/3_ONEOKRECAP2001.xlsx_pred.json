@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "3_ONEOKRECAP2001.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 40,
+                "left_col": 0,
+                "right_col": 27
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 53,
+                "bottom_row": 55,
+                "left_col": 10,
+                "right_col": 10
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 77,
+                "bottom_row": 80,
+                "left_col": 3,
+                "right_col": 3
+            }
+        }
+    ]
+}

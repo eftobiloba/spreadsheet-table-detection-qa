@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_041299pgas.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 235,
+                "left_col": 0,
+                "right_col": 4
+            }
+        }
+    ]
+}

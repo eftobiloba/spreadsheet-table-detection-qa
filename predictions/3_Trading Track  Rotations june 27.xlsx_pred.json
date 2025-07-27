@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "3_Trading Track  Rotations june 27.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 76,
+                "left_col": 0,
+                "right_col": 5
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 24,
+                "left_col": 9,
+                "right_col": 10
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 29,
+                "bottom_row": 42,
+                "left_col": 9,
+                "right_col": 10
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "5_dasq.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 34,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 37,
+                "bottom_row": 60,
+                "left_col": 0,
+                "right_col": 8
+            }
+        }
+    ]
+}

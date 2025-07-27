@@ -1,0 +1,77 @@
+{
+    "spreadsheet": "2_10-8-01 Hot List.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 3,
+                "left_col": 1,
+                "right_col": 2
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 8,
+                "left_col": 0,
+                "right_col": 2
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 10,
+                "bottom_row": 16,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 19,
+                "bottom_row": 24,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 27,
+                "bottom_row": 36,
+                "left_col": 0,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_6",
+            "bounding_box": {
+                "top_row": 39,
+                "bottom_row": 47,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_7",
+            "bounding_box": {
+                "top_row": 50,
+                "bottom_row": 59,
+                "left_col": 0,
+                "right_col": 9
+            }
+        },
+        {
+            "table_id": "table_8",
+            "bounding_box": {
+                "top_row": 62,
+                "bottom_row": 76,
+                "left_col": 0,
+                "right_col": 9
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "2_EOL_Countries&Products_Status_08-24.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 1,
+                "left_col": 6,
+                "right_col": 7
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 23,
+                "left_col": 0,
+                "right_col": 8
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 31,
+                "bottom_row": 36,
+                "left_col": 0,
+                "right_col": 8
+            }
+        }
+    ]
+}

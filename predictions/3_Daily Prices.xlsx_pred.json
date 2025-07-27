@@ -1,0 +1,32 @@
+{
+    "spreadsheet": "3_Daily Prices.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 1,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 6,
+                "bottom_row": 22,
+                "left_col": 0,
+                "right_col": 5
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 27,
+                "bottom_row": 28,
+                "left_col": 0,
+                "right_col": 0
+            }
+        }
+    ]
+}

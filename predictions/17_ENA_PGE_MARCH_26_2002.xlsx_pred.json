@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "17_ENA_PGE_MARCH_26_2002.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 2,
+                "left_col": 0,
+                "right_col": 1
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 6,
+                "bottom_row": 34,
+                "left_col": 0,
+                "right_col": 2
+            }
+        }
+    ]
+}

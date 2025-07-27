@@ -1,0 +1,41 @@
+{
+    "spreadsheet": "2_Tenaska IV Est Imbalance0302.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 3,
+                "left_col": 0,
+                "right_col": 0
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 12,
+                "left_col": 0,
+                "right_col": 10
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 16,
+                "bottom_row": 21,
+                "left_col": 0,
+                "right_col": 11
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 25,
+                "bottom_row": 30,
+                "left_col": 0,
+                "right_col": 11
+            }
+        }
+    ]
+}

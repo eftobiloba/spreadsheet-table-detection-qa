@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_10_15_01LO.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 5,
+                "bottom_row": 20,
+                "left_col": 1,
+                "right_col": 8
+            }
+        }
+    ]
+}

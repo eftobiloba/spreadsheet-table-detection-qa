@@ -1,0 +1,23 @@
+{
+    "spreadsheet": "2_budget 2001.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 15,
+                "left_col": 0,
+                "right_col": 15
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 19,
+                "bottom_row": 33,
+                "left_col": 0,
+                "right_col": 15
+            }
+        }
+    ]
+}

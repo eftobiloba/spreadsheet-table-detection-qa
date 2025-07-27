@@ -1,0 +1,86 @@
+{
+    "spreadsheet": "2_Budget.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 1,
+                "bottom_row": 5,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_2",
+            "bounding_box": {
+                "top_row": 7,
+                "bottom_row": 14,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_3",
+            "bounding_box": {
+                "top_row": 16,
+                "bottom_row": 19,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_4",
+            "bounding_box": {
+                "top_row": 21,
+                "bottom_row": 26,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_5",
+            "bounding_box": {
+                "top_row": 28,
+                "bottom_row": 36,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_6",
+            "bounding_box": {
+                "top_row": 38,
+                "bottom_row": 47,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_7",
+            "bounding_box": {
+                "top_row": 49,
+                "bottom_row": 51,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_8",
+            "bounding_box": {
+                "top_row": 53,
+                "bottom_row": 56,
+                "left_col": 0,
+                "right_col": 4
+            }
+        },
+        {
+            "table_id": "table_9",
+            "bounding_box": {
+                "top_row": 58,
+                "bottom_row": 67,
+                "left_col": 0,
+                "right_col": 4
+            }
+        }
+    ]
+}

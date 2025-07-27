@@ -1,0 +1,14 @@
+{
+    "spreadsheet": "2_TradeCountsByCp.xlsx",
+    "tables": [
+        {
+            "table_id": "table_1",
+            "bounding_box": {
+                "top_row": 0,
+                "bottom_row": 173,
+                "left_col": 0,
+                "right_col": 16
+            }
+        }
+    ]
+}
