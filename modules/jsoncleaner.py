@@ -8,25 +8,34 @@ def clean_json_data(json_file_path):
     tables = data.get("tables", {})
     cleaned_tables = {}
     
-    for table_name, rows in tables.items():
+    for table_name, table_info in tables.items():
+        # Extract the data rows (list of dictionaries)
+        rows = table_info.get("data", [])
+        headers = table_info.get("headers", [])
+        
         if not rows:  # Remove empty tables
             continue
         
         # Remove rows that are entirely null
-        rows = [row for row in rows if any(v is not None for v in row.values())]
-        if not rows:
+        cleaned_rows = [row for row in rows if any(v is not None for v in row.values())]
+        if not cleaned_rows:
             continue
         
-        # Remove columns that are entirely null
-        keys_to_remove = set(rows[0].keys())
-        for row in rows:
-            keys_to_remove.intersection_update({k for k, v in row.items() if v is None})
+        # Remove columns that are entirely null across all rows
+        if cleaned_rows:
+            keys_to_remove = set(cleaned_rows[0].keys())
+            for row in cleaned_rows:
+                keys_to_remove.intersection_update({k for k, v in row.items() if v is None})
+            
+            for row in cleaned_rows:
+                for key in keys_to_remove:
+                    row.pop(key, None)
         
-        for row in rows:
-            for key in keys_to_remove:
-                row.pop(key, None)
-        
-        cleaned_tables[table_name] = rows
+        # Preserve headers and cleaned data in the table
+        cleaned_tables[table_name] = {
+            "headers": headers,
+            "data": cleaned_rows
+        }
     
     data["tables"] = cleaned_tables
     data["total_tables"] = len(cleaned_tables)

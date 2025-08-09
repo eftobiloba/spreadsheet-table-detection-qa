@@ -16,13 +16,13 @@ def find_optimal_eps(cell_indices, k=4):
     k_distances = np.sort(distances[:, k - 1])
 
     # Plot the k-distance graph
-    """ plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(8, 5))
     plt.plot(k_distances)
     plt.xlabel("Points sorted by distance")
     plt.ylabel(f"{k}-th Nearest Neighbor Distance")
     plt.title("K-Distance Graph for DBSCAN")
     plt.grid(True)
-    plt.show() """
+    plt.show()
 
     # Suggest an eps value based on the elbow point
     elbow_index = np.argmax(np.diff(k_distances))  # Find steepest slope change
